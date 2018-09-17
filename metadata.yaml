@@ -1,0 +1,44 @@
+_repo: Vieras-rouva_52067
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fiodor
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fedor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2016-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52067'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- GITenberg
+title: Vieras rouva
+url: http://www.gutenberg.org/ebooks/52067
